@@ -56,6 +56,21 @@ p {
   color: #231f20
 }
 
+.Arcade1 {
+  margin: 32px 14px 32px 32px;
+  font-family: "Poppins";
+  font-size: 25px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #231f20;
+  margin-right: 48px;
+  margin-left: 32px;
+} 
+
 h3 {
   margin: 64px 216px 64px 229px;
   font-size: 20px;
@@ -72,6 +87,7 @@ h4 {
   text-align: right;
   color: #231f20;
   padding-top: 200px;
+  margin top: 100px;
 }
 
 h5 {
@@ -146,6 +162,21 @@ h5 {
   font-weight: bold;
   text-align: center;
   color: #ff6b00;
+  
+}
+
+.CTA-3 {
+  width: 185px;
+  height: 48px;
+  margin: 30px 31px 22px 455px;
+  padding: 10px 36px;
+  border-radius: 15px;
+  border: solid 4px #ff6b00;
+  font-family: "Poppins";
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  color: #ff6b00;  
 }
 
 
@@ -164,3 +195,78 @@ h5 {
 .flexbox-container > div:first-child {
 	margin-right: 20px;
 }
+
+
+.bloc-illu{
+  background-color: url(../img/ordi/bg-yellow.png);
+  background-position: left top;
+  background-size: 100%;
+}
+
+.feature-2 {
+  object-position: right top;
+}
+
+.Latest-releases {
+  margin: 0 211.5px 64px 208.5px;
+  font-family: "Poppins";
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+  color: white; 
+
+}
+
+.Contact {
+  margin: 0 211.5px 64px 208.5px;
+  font-family: "Poppins";
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+  color: white; 
+
+}
+
+.Bloc-fin {
+  background-color: #231f20;
+  position: center;
+}
+
+.form-row {
+  font-size: 15px;
+  line-height: 2.5;
+  text-align: center;
+  color: #ffffff;
+}
+
+.bloc-1 {
+  background-image: url(../img/ordi/bg-red.png);
+  margin: auto;
+  }
+
+.bloc-2 {
+  background-image: url(../img/ordi/bg-violet.png);
+   margin: auto;
+  }
+
+.bloc-3 {
+  background-image: url(../img/ordi/bg-blue.png);
+  margin: auto;
+  }
+
+.ordinateur-2 img {
+  mix-blend-mode: darken;
+}
+
+.ordinateur-2 {
+  background-image: url(../img/ordi/bg-orange.png);
+}
+
+.ordinateur img {
+  mix-blend-mode: darken;
+}
+
+.ordinateur {
+  background-image: url(../img/ordi/bg-yellow.png);
+}
+
