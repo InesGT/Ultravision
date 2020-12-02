@@ -218,6 +218,7 @@ h5 {
   text-align: center;
   color: white; 
   padding-top: 1em;
+  padding-bottom: 1em;
 
 }
 
@@ -229,7 +230,6 @@ h5 {
   margin-right: 4em;
   grid-column: span 3;
   grid-row: span 2;
-
 }
 
 .Bloc-fin-1 {
@@ -241,6 +241,7 @@ h5 {
   line-height: 2.5;
   text-align: center;
   color: #ffffff;
+  padding-bottom: 2em;
 }
 
 .bloc-1 {
@@ -345,5 +346,9 @@ transform: translateY(0);
 
 .Sous-titre-3{
   color: #ffffff;
+}
+
+.form-contact{
+  display: flex;
 }
 
