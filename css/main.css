@@ -61,7 +61,6 @@ p {
   margin-right: 48px;
   margin-left: 32px;
   font-weight: lighter;
-  color: #ffffff;
 } 
 
 h3 {
@@ -123,6 +122,11 @@ h5 {
   color: #fcce00;
 }
 
+.CTA-1:hover {
+  transform: scale(1.1);
+  color: #fcce00;
+}
+
 .CTA-2 {
   max-width: 185px;
   margin-left: auto;
@@ -133,8 +137,12 @@ h5 {
   font-size: 18px;
   font-weight: bold;
   text-align: center;
+  color: #ff6b00; 
+}
+
+.CTA-2:hover {
+  transform: scale(1.1);
   color: #ff6b00;
-  
 }
 
 .CTA-3 {
@@ -147,6 +155,11 @@ h5 {
   font-weight: bold;
   text-align: left;
   color: #ffffff;
+}
+
+.CTA-3:hover {
+  transform: scale(1.1);
+  color: white;
 }
 
 .flexbox-container {
@@ -235,6 +248,8 @@ h5 {
   margin: auto;
   background-repeat: repeat;
   background-size: contain;
+  color: #ffffff;
+
   }
 
 .bloc-2 {
@@ -242,6 +257,8 @@ h5 {
    margin: auto;
    background-repeat: repeat;
    background-size: contain;
+   color: #ffffff;
+
   }
 
 .bloc-3 {
@@ -278,9 +295,6 @@ h5 {
   margin-bottom: 32px;
 }
 
-.game-cover {
-  display :block
-}
 
 .game-title {
 text-transform: uppercase;
@@ -327,5 +341,9 @@ color: yellow;
 .game:hover .game-content {
 opacity: 1;
 transform: translateY(0);
+}
+
+.Sous-titre-3{
+  color: #ffffff;
 }
 
