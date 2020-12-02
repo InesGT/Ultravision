@@ -289,6 +289,13 @@ font-size: 30px;
 color: yellow;
 }
 
+.game-title-2 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 30px;
+  color: orange;
+  }
+
 .game-categorie {
   font-size: 15px;
   font-weight: lighter;
